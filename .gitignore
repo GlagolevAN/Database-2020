@@ -1,0 +1,5 @@
+*.o
+*.out
+*.txt
+Makefile~
+.Makefile.un~
