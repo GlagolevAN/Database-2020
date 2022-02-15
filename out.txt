@@ -1,0 +1,42 @@
+Student 7654321 209
+Student 1234567 209
+Student 7654321 208
+Student 1234567 208
+end of selection
+
+Student 1234567 208
+Student 1234567 209
+end of selection
+
+Student 7654321 209
+Student 7654321 208
+end of selection
+
+end of selection
+
+end of selection
+
+end of selection
+
+Student 7654321 209
+Student 1234567 209
+Student 7654321 208
+Student 1234567 208
+end of selection
+
+Student 1234567 208
+Student 1234567 209
+end of selection
+
+Student 7654321 209
+Student 7654321 208
+end of selection
+
+end of selection
+
+end of selection
+
+end of selection
+
+It quited
+Worktime = 0.23
